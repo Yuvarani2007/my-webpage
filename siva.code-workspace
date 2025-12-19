@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../yuva project"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "siva"
+	}
+}
